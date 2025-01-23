@@ -1,4 +1,4 @@
-[masterhead!(https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626753867110?e=1734566400&v=beta&t=zt8SIxKCkPo1xwTmE0ESm_4yoPn7dTIaiE8M6DZBQ_Y)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626753867110?e=1734566400&v=beta&t=zt8SIxKCkPo1xwTmE0ESm_4yoPn7dTIaiE8M6DZBQ_Y)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sri Santhosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
