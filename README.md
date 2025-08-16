@@ -15,10 +15,10 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working as an **INTERN**  
-- 🌱 I’m currently learning **Django**  
-- 💬 Ask me about **Data Science**  
+- 🔭 I’m seeking an opportunity as a **Front-End Developer**  
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Python**  
 - 📫 How to reach me **srisanthosh@gmail.com**  
+
 
 ---
 
