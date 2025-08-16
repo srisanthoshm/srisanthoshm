@@ -1,22 +1,3 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Header Example</title>
-  <style>
-    header {
-      text-align: center;
-      font-size: 24px;
-      font-weight: bold;
-      padding: 20px;
-      border-bottom: 2px solid black;
-    }
-
-    /* Hides the masthead image */
-    .masthead-image {
-      display: none;
-    }
-  </style>
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1734566400&v=beta&t=zt8SIxKCkPo1xwTmE0ESm_4yoPn7dTIaiE8M6DZBQ_Y)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sri Santhosh</h1>
